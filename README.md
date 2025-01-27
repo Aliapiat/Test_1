@@ -6,7 +6,7 @@ Welcome to my GitHub repository! Here, you will find a collection of my certific
 This repository includes certifications that demonstrate my knowledge and skills in quality assurance, manual and automated testing. Notable certifications include:
 - **C++ Programming (Yandex)**
 - **C++ Programming (Computer Science Center)**
-- **Language certificat from ILAC school
+- **Language certificat from ILAC school**
 
 ## **Educational Projects**
 During my time at college and internships, I worked on several practical projects focused on:
